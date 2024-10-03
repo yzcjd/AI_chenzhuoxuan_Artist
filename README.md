@@ -5,7 +5,7 @@
 <summary> 1. 点击跳转 colab </summary>
 
 ```
-链接：https://github.com/yzcjd/yzcjd-AI_chenzhuoxuan_Artist/blob/main/so_vits_svc_fork_4_0_inference_simplified.ipynb
+链接：https://github.com/yzcjd/AI_chenzhuoxuan_Artist/blob/main/so_vits_svc_fork_4_0_inference_simplified.ipynb
 ```
 </details>
 
